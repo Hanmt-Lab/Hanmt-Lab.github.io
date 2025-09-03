@@ -6,6 +6,7 @@ group: publications
 
 <h1>Publications</h1>
 
+{% for publication in site.data.publications.items %}
 
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
@@ -165,6 +166,7 @@ group: publications
 		{% endif %}
 	</ul>
 </div>
+{% endfor %}
 <br>
 
 </div>
