@@ -1,5 +1,5 @@
 ---
-title: Research in the Fraser Lab
+title: Han Lab Research
 layout: default
-group: research
 ---
+
