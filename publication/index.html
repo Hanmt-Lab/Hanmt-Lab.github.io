@@ -7,14 +7,14 @@ group: publication
 <h1>Publications</h1>
 
 
-{% for publication in site.publication %}
+{% for paper in site.publication %}
 
 <hr>
-<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
-<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
-{% if publication.journal %}
-	<i>{{ publication.journal }},</i>
-	{{publication.pub_date | split: "-" | first }}
+<h5>{{ paper.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
+<h6>{{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
+{% if paper.journal %}
+	<i>{{ paper.journal }},</i>
+	{{paper.pub_date | split: "-" | first }}
 	
 {% endif %}
 
