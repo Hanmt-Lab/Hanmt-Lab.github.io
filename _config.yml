@@ -3,3 +3,7 @@ description: Decipher and Manipulate Localized Transcripts and Translation.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+collections:
+        publication:
+                output: true
