@@ -6,7 +6,8 @@ group: publications
 
 <h1>Publications</h1>
 
-{% for publication in site.publications %}
+{% assign sorted = site.publications | sort: "pub_date" | reverse %}
+{% for publication in sorted %}
 
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
