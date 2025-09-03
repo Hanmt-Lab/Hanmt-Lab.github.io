@@ -10,8 +10,8 @@ group: publication
 {% for paper in site.publication %}
 
 <hr>
-{{ paper.title | markdownify  | remove: '<p>' | remove: '</p>'}}
-{{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+<strong>{{ paper.title}}</strong>
+{{ paper.authors}}
 {% if paper.journal %}
 	<i>{{ paper.journal }},</i>
 	{{paper.pub_date | split: "-" | first }}
