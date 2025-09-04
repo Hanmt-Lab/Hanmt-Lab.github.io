@@ -7,6 +7,6 @@ image:
 pdf:
 pmid:
 links:
-- name: "Access the paper"
-- URL: "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201711710"
+- name: "View publication online"
+  URL: "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201711710"
 ---
