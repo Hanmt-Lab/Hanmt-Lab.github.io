@@ -7,6 +7,6 @@ image:
 pdf:
 pmid:
 links:
-- name: "Access the paper"
-- URL: "https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(22)00022-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2667237522000224%3Fshowall%3Dtrue"
+- name: "View publication online"
+  URL: "https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(22)00022-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2667237522000224%3Fshowall%3Dtrue"
 ---
