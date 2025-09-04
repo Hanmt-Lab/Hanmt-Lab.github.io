@@ -19,11 +19,12 @@ group: publication
 	
 {% endif %}
 
+<br>
 {% if paper.links %}
 
     {% for link in paper.links %}
 
-        <a href="{{link.URL}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}}</a>
+        <a href="{{link.URL}}" alt="View publication online (opens in new tab)" target="_blank">View publication online</a>
 
     {% endfor %}
 
