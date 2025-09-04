@@ -11,4 +11,6 @@ links:
   URL: "https://www.nature.com/articles/s41586-025-09020-z"
 - name: "Highlighted by Nat. Biotechnol."
   URL: "https://www.nature.com/articles/s41587-025-02721-w"
+- name: "Stanford Report News"
+  URL: "https://news.stanford.edu/stories/2025/05/crispr-technology-neurodegenerative-diseases-als-spinal-muscular-atrophy"
 ---
