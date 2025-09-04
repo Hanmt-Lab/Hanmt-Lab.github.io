@@ -1,6 +1,6 @@
 ---
 title: "CRISPR-TO: a versatile tool for programmable control of the spatial transcriptome"
-authors: "Han, M."
+authors: "Han, M.*"
 journal: Nat. Rev. Neurosci.
 pub_date: "2025-08-11"
 image:
