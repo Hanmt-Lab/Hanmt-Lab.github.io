@@ -8,5 +8,5 @@ pdf:
 pmid:
 links:
 - name: "View article online"
-- URL: "https://www.nature.com/articles/s41586-025-09020-z"
+  URL: "https://www.nature.com/articles/s41586-025-09020-z"
 ---
