@@ -7,6 +7,6 @@ image:
 pdf:
 pmid:
 links:
-- name: "Access the paper"
-- URL: "https://www.nature.com/articles/s41467-022-30546-7"
+- name: "View publication online"
+  URL: "https://www.nature.com/articles/s41467-022-30546-7"
 ---
