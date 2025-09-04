@@ -1,5 +1,5 @@
 ---
-title: <strong>"Before joining IU Biology"</strong>
+title: "**Before joining IU Biology**"
 authors: ""
 journal:
 pub_date: "2025-08-10"
