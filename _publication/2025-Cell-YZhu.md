@@ -7,6 +7,6 @@ image:
 pdf:
 pmid:
 links:
-- name: "Access the paper"
-- URL: "https://www.cell.com/cell/abstract/S0092-8674(25)00350-2"
+- name: "View publication online"
+  URL: "https://www.cell.com/cell/abstract/S0092-8674(25)00350-2"
 ---
