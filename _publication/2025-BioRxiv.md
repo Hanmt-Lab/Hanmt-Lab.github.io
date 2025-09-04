@@ -7,6 +7,6 @@ image:
 pdf:
 pmid:
 links:
-- name: "Access the paper"
-- URL: "https://www.biorxiv.org/content/10.1101/2025.08.15.670620v1"
+- name: "View publication online"
+  URL: "https://www.biorxiv.org/content/10.1101/2025.08.15.670620v1"
 ---
