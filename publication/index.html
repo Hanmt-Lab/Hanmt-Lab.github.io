@@ -19,6 +19,11 @@ group: publication
 	
 {% endif %}
 
+{% if publication.links %}
+
+    [{{link.name}}]({{link.URL}})
+
+{% endif %}
 
 {% endfor %}
 <br>
