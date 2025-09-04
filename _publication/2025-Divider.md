@@ -1,6 +1,6 @@
 ---
 title: "**Before joining IU Biology**"
-authors: ""
+authors:
 journal:
 pub_date: "2025-08-10"
 image:
