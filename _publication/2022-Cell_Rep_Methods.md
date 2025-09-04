@@ -1,7 +1,7 @@
 ---
 title: "Multi-color super-resolution imaging to study human coronavirus RNA during cellular infection"
 authors: "Wang, J.#, Han, M.#, Roy, A. R., Wang, H., Möckl L., Zeng, L., Moerner, W. E., Qi, L. S. (#co-first author)"
-journal: Cell Rep. Methods
+journal: "Cell Rep. Methods"
 pub_date: "2022-02-01"
 image:
 pdf:
