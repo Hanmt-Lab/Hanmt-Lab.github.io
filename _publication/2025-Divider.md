@@ -7,6 +7,4 @@ image:
 pdf:
 pmid:
 links:
-- name:
-- URL:
 ---
