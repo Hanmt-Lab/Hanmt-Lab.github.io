@@ -7,7 +7,8 @@ group: publication
 <h1>Publications</h1>
 
 
-{% for paper in site.publication %}
+{% assign sorted = site.publication | sort: "pub_date" | reverse %}
+{% for paper in sorted %}
 
 <hr>
 <strong>{{ paper.title }}</strong><br>
