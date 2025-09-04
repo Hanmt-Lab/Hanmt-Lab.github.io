@@ -7,6 +7,6 @@ image: "/assets/images/2025-Nature-MHan.png"
 pdf:
 pmid:
 links:
-- name: "View article online"
+- name: "View publication online"
   URL: "https://www.nature.com/articles/s41586-025-09020-z"
 ---
