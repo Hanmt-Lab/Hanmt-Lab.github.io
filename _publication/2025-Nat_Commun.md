@@ -9,4 +9,6 @@ pmid:
 links:
 - name: "View publication online"
   URL: "https://www.nature.com/articles/s41467-024-48991-x"
+- name: "Stanford Report News"
+  URL: "https://news.stanford.edu/stories/2024/05/a-new-way-to-see-viruses-in-action#:~:text=Stanford%20researchers%20revealed%20the%20replication,have%20applications%20for%20drug%20development."
 ---
