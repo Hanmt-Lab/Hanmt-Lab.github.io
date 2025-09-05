@@ -7,3 +7,5 @@ theme: jekyll-theme-cayman
 collections:
         publication:
                 output: true
+        members:
+                output: true
