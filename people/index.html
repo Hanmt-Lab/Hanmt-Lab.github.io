@@ -1,5 +1,20 @@
 ---
-title: Mengting Han Lab Members
+title: Han Lab Members
 layout: default
 group: members
 ---
+
+{% for member in site.members %}
+
+{% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
+{% continue %}
+{% endunless %}
+
+      <hr>
+      <div style="display: flex; align-items: center;">
+         <img src="{{member.image}}" alt="{{member.name}}" style="width: 150px; margin-right: 15px;">
+         <p>{{member.name}}<br>
+            {{member.position}}       
+         </p>
+      </div>
+{% endfor %}
