@@ -3,7 +3,7 @@ title: Mengting Han Lab
 layout: default
 ---
 
-<link rel="icon" href="Han Lab logo.png" type="image/png">
+<link rel="icon" href="/Han Lab logo.png" type="image/png">
 
 # Welcome to Mengting Han Lab!
 
