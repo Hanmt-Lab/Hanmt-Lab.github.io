@@ -3,6 +3,8 @@ title: Moments in Han Lab
 layout: default
 ---
 
+<link rel="icon" href="/assets/images/Han Lab logo.png" type="image/png">
+
 <h2> We moved into our new lab! 1-2026 </h2>
 <br>
 <img src="/assets/images/newlab/1000001797.jpg" alt="mainlab_1" style="width: auto; height: 800px;">
