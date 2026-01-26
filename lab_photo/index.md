@@ -3,7 +3,7 @@ title: Moments in Han Lab
 layout: default
 ---
 
-<h2> We moved into our new lab! 11-2025 </h2>
+<h2> We moved into our new lab! 1-2026 </h2>
 <br>
 <img src="/assets/images/newlab/1000001797.jpg" alt="mainlab_1" style="width: auto; height: 800px;">
 <img src="/assets/images/newlab/1000001774.jpg" alt="mainlab_1" style="width: 800px; height: auto;">
