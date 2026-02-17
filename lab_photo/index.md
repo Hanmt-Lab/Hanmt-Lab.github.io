@@ -5,7 +5,7 @@ layout: default
 
 <link rel="icon" href="/assets/images/Han Lab logo.png" type="image/png">
 
-<h2> New Year Party! Welcome Josh for joining Han Lab! 2-2026 </h2>
+<h2> New Year Party! Josh, welcome aboard! 2-2026 </h2>
 <h3> Want some dumplings and Catan? </h3>
 <br>
 <img src="/assets/images/20260216_Potluck.jpg" alt="Potluck" style="width: 800px; height: auto;">
