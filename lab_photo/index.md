@@ -8,8 +8,8 @@ layout: default
 <h2> New Year Party! Welcome Josh for joining Han Lab! 2-2026 </h2>
 <h3> Want some dumplings and Catan? </h3>
 <br>
-<img src="/assets/images/newlab/20260216_Potluck.jpg" alt="Potluck" style="width: 800px; height: auto;">
-<img src="/assets/images/newlab/20260216_Catan.jpg" alt="Catan" style="width: 800px; height: auto;">
+<img src="/assets/images/20260216_Potluck.jpg" alt="Potluck" style="width: 800px; height: auto;">
+<img src="/assets/images/20260216_Catan.jpg" alt="Catan" style="width: 800px; height: auto;">
 <br>
 <h2> We moved into our new lab! 1-2026 </h2>
 <br>
