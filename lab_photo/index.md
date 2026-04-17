@@ -5,6 +5,14 @@ layout: default
 
 <link rel="icon" href="/assets/images/Han Lab logo.png" type="image/png">
 
+<h2> Sihan presented her poster at the Biotechnology Poster Session! 04-2026 </h2>
+<br>
+<img src="/assets/images/meetings/Sihan at her poster.jpg" alt="Sihan poster" style="width: 800px; height: auto;">
+<br>
+<h2> Mengting presented at the 6th RNA Metabolism in Neurological Disease Conference! 03-2026 </h2>
+<br>
+<img src="/assets/images/meetings/Mengting at the 6th RNA Metabolism in Neurological Disease Conference.jpg" alt="6th RNA Metabolism" style="width: 600px; height: auto;">
+<br>
 <h2> New Year Party! Josh, welcome aboard! 2-2026 </h2>
 <h3> Want some dumplings and Catan? </h3>
 <br>
@@ -31,4 +39,8 @@ layout: default
 <h2> Our first group photo 11-2025 </h2>
 <br>
 <img src="/assets/images/2025-11-17 Lap photo 2.jpg" alt="Lap photo" style="width: 800px; height: auto;">
+<br>
+<h2> Mengting presented at the CSHL CRISPR Frontiers! 08-2025 </h2>
+<br>
+<img src="/assets/images/meetings/CSHL CRISPR Frontiers 2025.png" alt="CSHL CRISPR Frontiers 2025" style="width: 800px; height: auto;">
 <br>
