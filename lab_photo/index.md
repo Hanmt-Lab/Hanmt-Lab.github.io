@@ -5,6 +5,10 @@ layout: default
 
 <link rel="icon" href="/assets/images/Han Lab logo.png" type="image/png">
 
+<h2> Our new Nikon Microscope has arrived! 04-2026 </h2>
+<br>
+<img src="/assets/images/newlab/2026-04 New Microscope.jpg" alt="New Microscope" style="width: 800px; height: auto;">
+<br>
 <h2> Sihan presented her poster at the Biotechnology Poster Session! 04-2026 </h2>
 <br>
 <img src="/assets/images/meetings/Sihan at her poster.jpg" alt="Sihan poster" style="width: 800px; height: auto;">
