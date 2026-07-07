@@ -5,7 +5,7 @@ layout: default
 
 <link rel="icon" href="/assets/images/Han Lab logo.png" type="image/png">
 
-<h2> Congratulations to Sihan on finishing her Master's program! 04-2026 </h2>
+<h2> Congratulations to Sihan on finishing her Master's program! 07-2026 </h2>
 <h3> Farewell lunch for Sihan </h3>
 <br>
 <img src="/assets/images/events/Sihan farewell lunch.jpg" alt="Sihan farewell lunch" style="width: 800px; height: auto;">
