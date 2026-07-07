@@ -8,11 +8,11 @@ layout: default
 <h2> Congratulations to Sihan on finishing her Master's program! 04-2026 </h2>
 <h3> Farewell lunch for Sihan </h3>
 <br>
-<img src="/assets/images/meetings/Sihan farewell lunch.jpg" alt="Sihan farewell lunch" style="width: 800px; height: auto;">
+<img src="/assets/images/events/Sihan farewell lunch.jpg" alt="Sihan farewell lunch" style="width: 800px; height: auto;">
 <br>
 <h2> Mengting presented at the NIDA Genetics and Epigenetics Webinar! 06-2026 </h2>
 <br>
-<img src="/assets/images/newlab/2026-06-29_NIDA_Webinar.png" alt="NIDA_Webinar" style="width: 800px; height: auto;">
+<img src="/assets/images/events/2026-06-29_NIDA_Webinar.png" alt="NIDA_Webinar" style="width: 800px; height: auto;">
 <br>
 <h2> Our new Nikon Microscope has arrived! 04-2026 </h2>
 <br>
