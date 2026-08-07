@@ -59,6 +59,8 @@ layout: default
 <br>
 <h2> Congratulations to Mengting on receiving Sammy Kuo Awards in Neuroscience! 10-2025 </h2>
 <br>
+<img src="/assets/images/events/Mengting_Sammy_Kuo_Awards.jpg" alt="Mengting_Sammy_Kuo_Awards" style="width: 800px; height: auto;">
+<br>
 <h2> Mengting presented at the CSHL CRISPR Frontiers! 08-2025 </h2>
 <br>
 <img src="/assets/images/meetings/CSHL CRISPR Frontiers 2025.png" alt="CSHL CRISPR Frontiers 2025" style="width: 800px; height: auto;">
