@@ -6,6 +6,7 @@ layout: default
 <link rel="icon" href="/assets/images/Han Lab logo.png" type="image/png">
 
 <h2> Congratulations to Han Lab on receiving IUB Center for Cannabis, Cannabinoids, & Addiction (C3A) Pilot Project Grant! 08-2026 </h2>
+<br>
 <hr>
 <h2> Congratulations to Sihan on finishing her Master's program! 07-2026 </h2>
 <h3> Farewell lunch for Sihan </h3>
@@ -13,6 +14,7 @@ layout: default
 <img src="/assets/images/events/Sihan farewell lunch.jpg" alt="Sihan farewell lunch" style="width: 800px; height: auto;">
 <hr>
 <h2> Congratulations to Mengting on receiving IUB Biology Course Development Awards! 06-2026 </h2>
+<br>
 <hr>
 <h2> Mengting presented at the NIDA Genetics and Epigenetics Webinar! 06-2026 </h2>
 <br>
