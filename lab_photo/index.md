@@ -6,36 +6,36 @@ layout: default
 <link rel="icon" href="/assets/images/Han Lab logo.png" type="image/png">
 
 <h2> Congratulations to Han Lab on receiving IUB Center for Cannabis, Cannabinoids, & Addiction (C3A) Pilot Project Grant! 08-2026 </h2>
-<br>
+<hr>
 <h2> Congratulations to Sihan on finishing her Master's program! 07-2026 </h2>
 <h3> Farewell lunch for Sihan </h3>
 <br>
 <img src="/assets/images/events/Sihan farewell lunch.jpg" alt="Sihan farewell lunch" style="width: 800px; height: auto;">
-<br>
+<hr>
 <h2> Congratulations to Mengting on receiving IUB Biology Course Development Awards! 06-2026 </h2>
-<br>
+<hr>
 <h2> Mengting presented at the NIDA Genetics and Epigenetics Webinar! 06-2026 </h2>
 <br>
 <img src="/assets/images/events/2026-06-29_NIDA_Webinar.png" alt="NIDA_Webinar" style="width: 800px; height: auto;">
-<br>
+<hr>
 <h2> Our new Nikon Microscope has arrived! 04-2026 </h2>
 <br>
 <img src="/assets/images/newlab/2026-04 New Microscope.jpg" alt="New Microscope" style="width: 800px; height: auto;">
-<br>
+<hr>
 <h2> Sihan presented her poster at the Biotechnology Poster Session! 04-2026 </h2>
 <br>
 <img src="/assets/images/meetings/Sihan at her poster.jpg" alt="Sihan poster" style="width: 800px; height: auto;">
-<br>
+<hr>
 <h2> Mengting presented at the 6th RNA Metabolism in Neurological Disease Conference! 03-2026 </h2>
 <br>
 <img src="/assets/images/meetings/Mengting at the 6th RNA Metabolism in Neurological Disease Conference.jpg" alt="6th RNA Metabolism" style="width: 600px; height: auto;">
-<br>
+<hr>
 <h2> New Year Party! Josh, welcome aboard! 2-2026 </h2>
 <h3> Want some dumplings and Catan? </h3>
 <br>
 <img src="/assets/images/20260216_Potluck.jpg" alt="Potluck" style="width: 800px; height: auto;">
 <img src="/assets/images/20260216_Catan.jpg" alt="Catan" style="width: 800px; height: auto;">
-<br>
+<hr>
 <h2> We moved into our new lab! 1-2026 </h2>
 <br>
 <img src="/assets/images/newlab/1000001797.jpg" alt="mainlab_1" style="width: auto; height: 800px;">
@@ -46,21 +46,21 @@ layout: default
 <img src="/assets/images/newlab/1000001773.jpg" alt="mainlab_1" style="width: 800px; height: auto;">
 <img src="/assets/images/newlab/1000001768.jpg" alt="TCroom_1" style="width: 800px; height: auto;">
 <img src="/assets/images/newlab/1000001770.jpg" alt="TCroom_2" style="width: 800px; height: auto;">
-<br>
+<hr>
 <h2> Lab lunch at Tudor Room 12-2025 </h2>
 <p> Welcome Maggie to join our lab! And farewell, Bokai!</p>
 <br>
 <img src="/assets/images/20251209_lunch_1.jpeg" alt="20251209_lunch_1" style="width: 600px; height: auto;">
 <img src="/assets/images/20251209_lunch_2.jpg" alt="20251209_lunch_2" style="width: 600px; height: auto;">
-<br>
+<hr>
 <h2> Our first group photo 11-2025 </h2>
 <br>
 <img src="/assets/images/2025-11-17 Lap photo 2.jpg" alt="Lap photo" style="width: 800px; height: auto;">
-<br>
+<hr>
 <h2> <h2> Congratulations to Mengting on receiving <a href="https://neuroscience.stanford.edu/programs/programs-and-fellowships-trainees/sammy-kuo-awards-neuroscience" target="_blank">Sammy Kuo Awards</a> in Neuroscience! 10-2025 </h2>
 <br>
 <img src="/assets/images/events/Mengting_Sammy_Kuo_Awards.jpg" alt="Mengting_Sammy_Kuo_Awards" style="width: 800px; height: auto;">
-<br>
+<hr>
 <h2> Mengting presented at the CSHL CRISPR Frontiers! 08-2025 </h2>
 <br>
 <img src="/assets/images/meetings/CSHL CRISPR Frontiers 2025.png" alt="CSHL CRISPR Frontiers 2025" style="width: 800px; height: auto;">
