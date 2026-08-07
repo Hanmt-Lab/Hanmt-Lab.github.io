@@ -57,7 +57,7 @@ layout: default
 <br>
 <img src="/assets/images/2025-11-17 Lap photo 2.jpg" alt="Lap photo" style="width: 800px; height: auto;">
 <br>
-<h2> Congratulations to Mengting on receiving [Sammy Kuo Awards](https://neuroscience.stanford.edu/programs/programs-and-fellowships-trainees/sammy-kuo-awards-neuroscience) in Neuroscience! 10-2025 </h2>
+<h2> Congratulations to Mengting on receiving <a href="https://neuroscience.stanford.edu/programs/programs-and-fellowships-trainees/sammy-kuo-awards-neuroscience">Sammy Kuo Awards</a> in Neuroscience! 10-2025 </h2>
 <br>
 <img src="/assets/images/events/Mengting_Sammy_Kuo_Awards.jpg" alt="Mengting_Sammy_Kuo_Awards" style="width: 800px; height: auto;">
 <br>
