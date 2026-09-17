@@ -6,7 +6,9 @@ layout: default
 <link rel="icon" href="/assets/images/Han Lab logo.png" type="image/png">
 
 <h2> Huge Congratulations to Mengting on receiving <a href="https://nida.nih.gov/about-nida/organization/divisions/division-neuroscience-behavior-dnb/genetics-molecular-neurobiology-research-branch-gmnrb/avenir-award-winners" target="_blank">NIH NIDA Avenir Award (DP1)</a>! 09-2026 </h2>
+<h3> <a href="https://biology.indiana.edu/news-events/news/2026/iu-biologist-mengting-han-receives-2.38-million-nih-nidas-avenir-award-dp1.html" target="_blank">Biology Department News</a> </h3>
 <br>
+<img src="/assets/images/events/han-mengting-grateful.jpeg" alt="Han Lab" style="width: 800px; height: auto;">
 <hr>
 <h2> Congratulations to Han Lab on receiving IUB Center for Cannabis, Cannabinoids, & Addiction (C3A) Pilot Project Grant! 08-2026 </h2>
 <br>
