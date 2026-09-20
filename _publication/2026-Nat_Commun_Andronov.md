@@ -9,4 +9,6 @@ pmid:
 links:
 - name: "View publication online"
   URL: "https://www.nature.com/articles/s41467-026-75289-x"
+- name: "Highlighted by Nat. Commun."
+  URL: "https://www.nature.com/collections/jedgcgeija"
 ---
