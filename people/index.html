@@ -38,21 +38,26 @@ group: members
 <p>Macari Richey</p>
 <p>Sophia Holt</p>
 
-<table>
-  <tr>
-    <td>Alice</td>
-    <td>Bob</td>
-    <td>Charlie</td>
-  </tr>
-  <tr>
-    <td>Diana</td>
-    <td>Edward</td>
-    <td>Fiona</td>
-  </tr>
-  <tr>
-    <td>George</td>
-    <td>Helen</td>
-    <td>Ian</td>
-  </tr>
-</table>
+<style>
+  .three-columns {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+  }
+  .three-columns div {
+    width: 33.33%;
+    padding: 4px 0;
+  }
+</style>
 
+<div class="three-columns">
+    <div>Alice</div>
+    <div>Bob</div>
+    <div>Charlie</div>
+    <div>Diana</div>
+    <div>Edward</div>
+    <div>Fiona</div>
+    <div>George</div>
+    <div>Helen</div>
+    <div>Ian</div>
+  </div>
