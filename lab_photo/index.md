@@ -5,6 +5,10 @@ layout: default
 
 <link rel="icon" href="/assets/images/Han Lab logo.png" type="image/png">
 
+<h2> Mengting on <a href="https://today.iu.edu/iub/live/news/53696-faculty-100-qampa-mengting-han-on-gene-and-brain" target="_blank">Faculty Spotllight</a>! 10-2026 </h2>
+<br>
+<img src="/assets/images/events/Mengting_Faculty_Spotlight.png" alt="Mengting_Faculty_Spotlight" style="width: 800px; height: auto;">
+<hr>
 <h2> Huge Congratulations to Mengting on receiving <a href="https://nida.nih.gov/about-nida/organization/divisions/division-neuroscience-behavior-dnb/genetics-molecular-neurobiology-research-branch-gmnrb/avenir-award-winners" target="_blank">NIH NIDA Avenir Award (DP1)</a>! 09-2026 </h2>
 <h3> <a href="https://biology.indiana.edu/news-events/news/2026/iu-biologist-mengting-han-receives-2.38-million-nih-nidas-avenir-award-dp1.html" target="_blank">Biology Department News</a> </h3>
 <br>
